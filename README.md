@@ -1,10 +1,10 @@
-Claro, aquí tienes la descripción actualizada:
+
 
 ---
 
 👋 Hola, soy **Nicolas Torres**.
 
-🎓 Estudiante de **Ingeniería de Sistemas** en Colombia, con 17 años de edad.
+🎓 Estudiante de **Ingeniería de Sistemas** en Colombia, con 19 años de edad.
 
 💻 Apasionado por la tecnología y el desarrollo de software.
 
